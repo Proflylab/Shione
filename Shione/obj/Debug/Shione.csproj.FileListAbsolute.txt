@@ -1,0 +1,18 @@
+c:\users\iferliz\documents\visual studio 2015\Projects\Shione\Shione\bin\Debug\Shione.exe
+c:\users\iferliz\documents\visual studio 2015\Projects\Shione\Shione\bin\Debug\Shione.pdb
+c:\users\iferliz\documents\visual studio 2015\Projects\Shione\Shione\obj\Debug\Shione.csprojResolveAssemblyReference.cache
+c:\users\iferliz\documents\visual studio 2015\Projects\Shione\Shione\obj\Debug\Shione.Properties.Resources.resources
+c:\users\iferliz\documents\visual studio 2015\Projects\Shione\Shione\obj\Debug\Shione.csproj.GenerateResource.Cache
+c:\users\iferliz\documents\visual studio 2015\Projects\Shione\Shione\obj\Debug\Shione.exe
+c:\users\iferliz\documents\visual studio 2015\Projects\Shione\Shione\obj\Debug\Shione.pdb
+c:\users\iferliz\documents\visual studio 2015\Projects\Shione\Shione\bin\Debug\Shione.exe.config
+C:\Users\iFerliz\documents\visual studio 2015\Projects\Shione\Shione\obj\Debug\Shione.frmMain.resources
+D:\Tools\backup\Projects06-03-17\Shione\Shione\bin\Debug\Shione.exe.config
+D:\Tools\backup\Projects06-03-17\Shione\Shione\obj\Debug\Shione.exe
+D:\Tools\backup\Projects06-03-17\Shione\Shione\obj\Debug\Shione.pdb
+D:\Tools\backup\Projects06-03-17\Shione\Shione\bin\Debug\Shione.exe
+D:\Tools\backup\Projects06-03-17\Shione\Shione\bin\Debug\Shione.pdb
+D:\Tools\backup\Projects06-03-17\Shione\Shione\obj\Debug\Shione.csprojResolveAssemblyReference.cache
+D:\Tools\backup\Projects06-03-17\Shione\Shione\obj\Debug\Shione.frmMain.resources
+D:\Tools\backup\Projects06-03-17\Shione\Shione\obj\Debug\Shione.Properties.Resources.resources
+D:\Tools\backup\Projects06-03-17\Shione\Shione\obj\Debug\Shione.csproj.GenerateResource.Cache
